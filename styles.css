@@ -103,7 +103,7 @@ button {
   border-bottom: 1px solid rgba(29, 36, 48, 0.06);
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12)),
-    url('assets/photo_2026-09-15_12.33.29.jpeg') center/cover no-repeat;
+    url('photo_2026-09-15_12.33.29.jpeg') center/cover no-repeat;
 }
 
 .hero::before {
